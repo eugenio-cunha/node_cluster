@@ -1,0 +1,19 @@
+{
+  "name": "node_cluster",
+  "version": "1.0.0",
+  "description": "Exemplo de cluster node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ugenio/node_cluster.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ugenio/node_cluster/issues"
+  },
+  "homepage": "https://github.com/ugenio/node_cluster#readme"
+}
